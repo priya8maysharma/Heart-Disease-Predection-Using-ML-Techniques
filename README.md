@@ -1,1 +1,5 @@
 # Heart-Disease-Predection-Using-ML-Techniques
+
+This project Prediction of Heart Disease using machine learning is very much useful in everyone's day to day life and it is mainly more important for the healthcare
+sector, because they are the one that daily uses these systems to predict the diseases of the patients based on their general information and their symptoms that they are been through. Now a day's health industry plays major role in curing the heart diseases of the patients so this is also some kind of help for the health industry to tell the user and also it is useful for the user in case he/she doesn't want to go to the hospital or any other clinics, so just by entering the symptoms and all other useful information the user can get to know the disease he/she is suffering from and the health industry can also get benefit from this system by just asking the
+symptoms from the user and entering in the system and in just few seconds they can tell the exact and up to some extent the accurate diseases.
